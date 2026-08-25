@@ -111,3 +111,5 @@ If you find this script useful, give the repository a ⭐ and share it with your
 ---
 
 Happy monitoring in **Roblox Islands**! 🏝️🚀
+
+<a href="https://rscripts.net/user/qyroxoo" target="_blank"><img alt="qyroxoo on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/qyroxoo?theme=dark" /></a>
